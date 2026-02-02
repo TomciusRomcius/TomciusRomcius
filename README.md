@@ -1,10 +1,10 @@
-## Hi there 👋
+## About me
 
 Backend developer passionate about building reliable systems.
 
 Currently working on an **E-commerce API**.
 
-## 🛠️ Worked with:
+### 🛠️ Worked with:
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width=48/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width=48/>
