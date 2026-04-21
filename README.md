@@ -2,7 +2,7 @@
 
 Backend developer passionate about building reliable systems.
 
-Currently working on an **E-commerce API**.
+Currently working on an **oidc-server**.
 
 ### 🛠️ Worked with:
 <p align="left">
