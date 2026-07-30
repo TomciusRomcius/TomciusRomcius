@@ -2,7 +2,7 @@
 
 Backend developer passionate about building reliable systems.
 
-Currently working on an **ECommerce**.
+Currently working on **webapp-kubernetes-operator**.
 
 ### 🛠️ Worked with:
 <p align="left">
